@@ -88,7 +88,7 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-logo =logo =                                          """ 
+logo =                                          """ 
 
 \033[1;37m╔═════════════════════════════════════════════╗
 \033[1;37m║      \033[1;36m╔╗╔╔═╗╦ ╦╔═╗╦    ╔═╗╦ ╦╔╦╗╔═╗╔╦╗       \033[1;37m║

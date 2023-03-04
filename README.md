@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-cyan?style=flat-square">
 </p>
 
-## NUMBER CLONING TOOLS UPDATE
+## RANDOM NUMBER CLONING TOOLS UPDATE
 
 ```Python
 
